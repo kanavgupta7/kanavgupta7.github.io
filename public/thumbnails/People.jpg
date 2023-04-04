@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://www.glintinc.com/blog/what-is-people-science/ -->
+<html lang="en-US"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <link rel="shortcut icon" href="https://www.glintinc.com/wp-content/themes/glint/img/favicon.ico">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<!--
+    <script type="text/javascript" data-cfasync="false" src="//tribl.io/h.js?orgId=LoRvgxLQOMhBg40YMJ1D"></script>
+    <script type="text/javascript" src="//tribl.io/firm_tracking.js?orgId=LoRvgxLQOMhBg40YMJ1D" data-cfasync="false"></script>
+-->
+
+    <!-- Apple -->
+    <meta name="apple-mobile-web-app-title" content="Glint">
+    <link rel="apple-touch-icon-precomposed" media="screen and (resolution: 163dpi)" href="https://www.glintinc.com/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" media="screen and (resolution: 326dpi)" href="https://www.glintinc.com/apple-touch-icon-retina.png">
+    <link rel="apple-touch-icon-precomposed" media="screen and (resolution: 132dpi)" href="https://www.glintinc.com/apple-touch-icon-ipad.png">
+    <link rel="apple-touch-icon-precomposed" media="screen and (resolution: 264dpi)" href="https://www.glintinc.com/apple-touch-icon-ipad-retina.png">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://www.glintinc.com/favicon.ico">
+
+
+
+    <title>What Is People Science? – Glint</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" hreflang="en" href="https://www.glintinc.com/blog/what-is-people-science/">
+<link rel="alternate" type="application/rss+xml" title="Glint » Feed" href="https://www.glintinc.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Glint » Comments Feed" href="https://www.glintinc.com/comments/feed/">
+<meta property="og:title" content="What Is People Science?"><meta property="og:type" content="article"><meta property="og:url" content="https://www.glintinc.com/blog/what-is-people-science/"><meta property="og:site_name" content="Glint"><meta property="og:image" content="https://www.glintinc.com/wp-content/themes/glint/icon.png"><link rel="stylesheet" id="wp-block-library-css" href="./What Is People Science_ – Glint_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="./What Is People Science_ – Glint_files/classic-themes.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="cookie-law-info-css" href="./What Is People Science_ – Glint_files/cookie-law-info-public-2.1.3.css" type="text/css" media="all">
+<link rel="stylesheet" id="cookie-law-info-gdpr-css" href="./What Is People Science_ – Glint_files/cookie-law-info-gdpr-2.1.3.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpml-menu-item-0-css" href="./What Is People Science_ – Glint_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpml-tm-admin-bar-css" href="./What Is People Science_ – Glint_files/admin-bar-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="glint-style-css" href="./What Is People Science_ – Glint_files/application.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="./What Is People Science_ – Glint_files/insight.min.js.download"></script><script type="text/javascript" src="./What Is People Science_ – Glint_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/jquery.cookie.js.download" id="jquery.cookie-js"></script>
+<script type="text/javascript" id="wpml-cookie-js-extra">
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/language-cookie.js.download" id="wpml-cookie-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":["",""],"cookielist":{"non-necessary":{"0":{"ID":5769,"post_author":"28","post_date":"2018-09-30 01:19:15","post_date_gmt":"2018-09-30 08:19:15","post_content":"Places console.log scripts if user clicks [ Accept ].","post_title":"Accepted","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"accepted","to_ping":"","pinged":"","post_modified":"2020-03-13 11:02:09","post_modified_gmt":"2020-03-13 18:02:09","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.glintinc.com\/?post_type=cookielawinfo&#038;p=5769","menu_order":0,"post_type":"cookielawinfo","post_mime_type":"","comment_count":"0","filter":"raw"},"1":{"ID":5767,"post_author":"28","post_date":"2018-09-30 01:04:30","post_date_gmt":"2018-09-30 08:04:30","post_content":"AddThis.\r\n\r\nPreviously loaded via wp_enqueue_script() in functions.php.","post_title":"AddThis","post_excerpt":"","post_status":"publish","comment_status":"closed","ping_status":"closed","post_password":"","post_name":"addthis","to_ping":"","pinged":"","post_modified":"2020-05-21 08:56:09","post_modified_gmt":"2020-05-21 15:56:09","post_content_filtered":"","post_parent":0,"guid":"https:\/\/www.glintinc.com\/?post_type=cookielawinfo&#038;p=5767","menu_order":0,"post_type":"cookielawinfo","post_mime_type":"","comment_count":"0","filter":"raw"},"term_id":91,"name":"Non Necessary"}}};
+var log_object = {"ajax_url":"https:\/\/www.glintinc.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/cookie-law-info-public-2.1.3.js.download" id="cookie-law-info-js"></script>
+<script type="text/javascript" id="wpml-browser-redirect-js-extra">
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":"https:\/\/www.glintinc.com\/blog\/what-is-people-science\/","en":"https:\/\/www.glintinc.com\/blog\/what-is-people-science\/","US":"https:\/\/www.glintinc.com\/blog\/what-is-people-science\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.glintinc.com","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/app.js.download" id="wpml-browser-redirect-js"></script>
+<link rel="https://api.w.org/" href="https://www.glintinc.com/wp-json/"><link rel="alternate" type="application/json" href="https://www.glintinc.com/wp-json/wp/v2/posts/7617"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.glintinc.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.glintinc.com/wp-includes/wlwmanifest.xml">
+<link rel="canonical" href="https://www.glintinc.com/blog/what-is-people-science/">
+<link rel="shortlink" href="https://www.glintinc.com/?p=7617">
+<link rel="alternate" type="application/json+oembed" href="https://www.glintinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.glintinc.com%2Fblog%2Fwhat-is-people-science%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.glintinc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.glintinc.com%2Fblog%2Fwhat-is-people-science%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.3.11 stt:1,4,3,28;">
+<script>console.log("COOKIES ACCEPTED (head)");</script>		<style type="text/css" id="wp-custom-css">
+			/* Override GDPR Cookie Consent button */
+#cookie_action_close_header {
+  background: #32adda!important;
+  color: #ffffff!important;
+}
+
+#cookie_action_close_header:hover {
+  background: #30a0c9!important;
+}
+#CONSTANT_OPEN_URL,
+#cookie_action_close_header_reject {
+  color: #32adda!important;
+  text-decoration: none!important;
+  border-bottom: 1px solid #32adda!important;
+}		</style>
+		
+
+<style>
+
+	.agenda {
+		display:inline;
+	}
+
+	.button-header {
+		display: inline-block;
+		margin-right: 16px;
+	}
+
+	.button-link {
+		position:relative;
+		top:-3px;
+	}
+
+	@media only screen and (max-width: 599px) and (min-width: 320px) {
+		#summit_event_banner_section h1 {
+				font-size: 38px!important;
+	}
+
+	#summit_event_banner_section h3.button-header {
+		margin-bottom:16px;
+	}
+
+	.button-link {
+			top:0px;
+			position:initial;
+	}
+}
+
+
+</style>
+
+</head>
+
+<body data-page-module="single-post" class="post-template-default single single-post postid-7617 single-format-standard lang-en no-touch" data-new-gr-c-s-check-loaded="14.1102.0" data-gr-ext-installed="">
+    
+    <nav id="site-navigation-mobile" class="nav-bar-mobile">
+        <div class="nav-bar-mobile__inner-wrap">
+        <ul class="nav-bar-mobile__list"><li class="menu-header panel-id-solutions nav-bar-mobile__item"><a href="https://www.glintinc.com/people-success-platform/" class="nav-bar-mobile__link">Solutions</a>
+<div class="nav-bar-mobile__panel">
+
+<ul>
+	<li><a href="https://www.glintinc.com/people-success-platform/">People-Success Platform</a></li>
+	<li class="menu-section-label"><a href="https://www.glintinc.com/blog/what-is-people-science/#">Solutions</a>
+	<ul>
+		<li><a href="https://www.glintinc.com/employee-engagement/">Employee Engagement</a></li>
+		<li><a href="https://www.glintinc.com/employee-development/">Employee Development</a></li>
+		<li><a href="https://www.glintinc.com/diversity-inclusion/">Diversity &amp;  Inclusion</a></li>
+		<li><a href="https://www.glintinc.com/people-success/">People Success</a></li>
+	</ul>
+</li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="menu-header panel-id-why-glint nav-bar-mobile__item"><a href="https://www.glintinc.com/customer-stories/" class="nav-bar-mobile__link">Why Glint</a>
+<div class="nav-bar-mobile__panel">
+
+<ul>
+	<li><a href="https://www.glintinc.com/customer-stories/">Our Customers</a></li>
+	<li><a href="https://www.glintinc.com/the-glint-difference/">The Glint Difference</a></li>
+	<li><a href="https://www.glintinc.com/services-support/">Services &amp; Support</a></li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="menu-header panel-id-resources nav-bar-mobile__item"><a href="https://www.glintinc.com/resource-center/" class="nav-bar-mobile__link">Resources</a>
+<div class="nav-bar-mobile__panel">
+
+<ul>
+	<li><a href="https://www.glintinc.com/resource-center/">Resource Center</a></li>
+	<li><a href="https://www.glintinc.com/glint-blog/">Blog</a></li>
+	<li><a href="https://www.glintinc.com/events/">Events</a></li>
+	<li><a href="https://www.glintinc.com/build-the-new-world-of-work/">Respond. Recover. Reimagine.</a></li>
+	<li><a href="https://www.glintinc.com/peopledrivenleaders/">People-Driven Leaders</a></li>
+	<li><a href="https://www.glintinc.com/people-success-summit/">People Success Summit</a></li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="menu-header panel-id-company nav-bar-mobile__item"><a href="https://www.glintinc.com/company/" class="nav-bar-mobile__link">Company</a>
+<div class="nav-bar-mobile__panel">
+
+<ul>
+	<li><a href="https://www.glintinc.com/company/">Our Story</a></li>
+	<li><a href="https://www.glintinc.com/newsroom/">Newsroom</a></li>
+	<li><a href="https://www.glintinc.com/careers/">Careers</a></li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="hide-desktop nav-bar-mobile__item"><a href="https://www.glintinc.com/contact/" class="nav-bar-mobile__link">Contact</a></li>
+<li class="menu-header menu-header-always-open panel-id-watch-demo panel-callout-first hide-desktop nav-bar-mobile__item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="nav-bar-mobile__link">Watch Demo</a>
+<div class="nav-bar-mobile__panel">
+	<div class="nav-bar-mobile__callout">
+		<div class="nav-bar-mobile__callout-image">
+			<img src="./What Is People Science_ – Glint_files/menu-callout_watch-demo-315x205-315x205.jpg">
+			<div class="nav-bar-mobile__callout-video-play-wrap"><a href="https://www.glintinc.com/glint-demo" class="nav-bar-mobile__callout-video-play"></a></div>
+		</div>
+		<div class="nav-bar-mobile__callout-info">
+			<span class="nav-bar-mobile__callout-heading"></span>
+			<p>See how the Glint platform helps you measure and improve the employee experience</p>
+
+		</div><!-- end .nav-bar-mobile__callout-info -->
+	</div><!-- end .nav-bar-mobile__callout -->
+
+<ul>
+	<li class="hide-desktop button-style-blue"><a href="https://www.glintinc.com/glint-demo">Request a demo</a></li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="menu-header menu-header-always-open panel-id-social panel-callout-first hide-desktop nav-bar-mobile__item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="nav-bar-mobile__link">Connect</a>
+<div class="nav-bar-mobile__panel">
+	<ul class="nav-bar-mobile__social-list">
+	<li class="nav-bar-mobile__social-item">
+	<a href="http://www.facebook.com/glintinc" target="_blank" class="nav-bar-mobile__social-link icon-social-facebook"></a>
+	</li>
+	<li class="nav-bar-mobile__social-item">
+	<a href="https://www.linkedin.com/company/glint-inc-/" target="_blank" class="nav-bar-mobile__social-link icon-social-linkedin"></a>
+	</li>
+	<li class="nav-bar-mobile__social-item">
+	<a href="http://twitter.com/glintinc" target="_blank" class="nav-bar-mobile__social-link icon-social-twitter"></a>
+	</li>
+	</ul>
+
+<ul>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li><li class="menu-header panel-id-language nav-bar-mobile__item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="nav-bar-mobile__link">English</a>
+<div class="nav-bar-mobile__panel">
+
+<ul>
+	<li class="lang-fr switch-lang"><a href="https://www.glintinc.com/fr/blog/what-is-people-science/">Français</a></li>
+	<li class="lang-ja switch-lang"><a href="https://www.glintinc.com/ja/blog/what-is-people-science/">日本語</a></li>
+	<li class="lang-de switch-lang"><a href="https://www.glintinc.com/de/blog/what-is-people-science/">Deutsch</a></li>
+</ul>
+
+</div><!-- end .nav-bar-mobile__panel -->
+</li>
+<li class="wpml-ls-slot-27 wpml-ls-current-language nav-bar-mobile__item"><a title="English" href="https://www.glintinc.com/blog/what-is-people-science/" class="nav-bar-mobile__link"><span class="wpml-ls-native" lang="en">English</span><span class="wpml-ls-display"><span class="wpml-ls-bracket"> (</span>English<span class="wpml-ls-bracket">)</span></span></a></li>
+</ul>        </div>
+    </nav><!-- #site-navigation-mobile -->
+
+	<header id="masthead" class="site-header js-scroll-offset">
+        <div id="site-header__inner" class="site-header__inner">
+            <div class="site-header__menu-icon">
+                <a href="https://www.glintinc.com/blog/what-is-people-science/#" class="site-header__menu-icon-link"></a>
+            </div>
+            <div class="site-header__branding">
+                <a href="https://www.glintinc.com/" class="site-header__branding-link">Glint</a>
+            </div>
+            <div class="site-header__login">
+                <a href="https://app.glintinc.com/session/any/login" class="site-header__login-link js-hover-fix" data-title="Login">Login</a>
+            </div>
+
+
+            <nav id="site-navigation" class="nav-bar">
+                <ul class="nav-bar__list"><li class="menu-header panel-id-solutions nav-bar__item"><a href="https://www.glintinc.com/people-success-platform/" class="nav-bar__link" data-title="Solutions">Solutions</a>
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+	<li><a href="https://www.glintinc.com/people-success-platform/" data-title="People-Success Platform">People-Success Platform</a></li>
+	<li class="menu-section-label"><a href="https://www.glintinc.com/blog/what-is-people-science/#" data-title="Solutions">Solutions</a>
+	<ul>
+		<li><a href="https://www.glintinc.com/employee-engagement/" data-title="Employee Engagement">Employee Engagement</a></li>
+		<li><a href="https://www.glintinc.com/employee-development/" data-title="Employee Development">Employee Development</a></li>
+		<li><a href="https://www.glintinc.com/diversity-inclusion/" data-title="Diversity &amp;  Inclusion">Diversity &amp;  Inclusion</a></li>
+		<li><a href="https://www.glintinc.com/people-success/" data-title="People Success">People Success</a></li>
+	</ul>
+</li>
+</ul>
+	<div class="nav-bar__callout">
+		<div class="nav-bar__callout-image">
+			<img src="./What Is People Science_ – Glint_files/menu-callout_solutions-265x174-265x174.jpg">
+			<div class="nav-bar__callout-video-play-wrap"><a href="https://www.glintinc.com/glint-demo" class="nav-bar__callout-video-play" data-title=""></a></div>
+		</div>
+		<div class="nav-bar__callout-info">
+			<span class="nav-bar__callout-heading">Watch Demo</span>
+			<p>See how the Glint platform helps you measure and improve the employee experience</p>
+
+		</div><!-- end .nav-bar__callout-info -->
+	</div><!-- end .nav-bar__callout -->
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+</li>
+<li class="menu-header panel-id-why-glint nav-bar__item"><a href="https://www.glintinc.com/customer-stories/" class="nav-bar__link" data-title="Why Glint">Why Glint</a>
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+	<li><a href="https://www.glintinc.com/customer-stories/" data-title="Our Customers">Our Customers</a></li>
+	<li><a href="https://www.glintinc.com/the-glint-difference/" data-title="The Glint Difference">The Glint Difference</a></li>
+	<li><a href="https://www.glintinc.com/services-support/" data-title="Services &amp; Support">Services &amp; Support</a></li>
+</ul>
+	<div class="nav-bar__callout">
+		<div class="nav-bar__callout-image">
+			<img src="./What Is People Science_ – Glint_files/menu_callout_glint_ancestry-265x174.jpg">
+			<div class="nav-bar__callout-video-play-wrap"><a href="https://www.glintinc.com/case-study/ancestry/" class="nav-bar__callout-video-play" data-title=""></a></div>
+		</div>
+		<div class="nav-bar__callout-info">
+			<span class="nav-bar__callout-heading">Ancestry + Glint</span>
+			<p>See how Glint helps Ancestry create the best possible environment for people’s best work</p>
+
+		</div><!-- end .nav-bar__callout-info -->
+	</div><!-- end .nav-bar__callout -->
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+</li>
+<li class="menu-header panel-id-resources nav-bar__item"><a href="https://www.glintinc.com/resource-center/" class="nav-bar__link" data-title="Resources">Resources</a>
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+	<li><a href="https://www.glintinc.com/resource-center/" data-title="Resource Center">Resource Center</a></li>
+	<li><a href="https://www.glintinc.com/glint-blog/" data-title="Blog">Blog</a></li>
+	<li><a href="https://www.glintinc.com/events/" data-title="Events">Events</a></li>
+	<li><a href="https://www.glintinc.com/build-the-new-world-of-work/" data-title="Respond. Recover. Reimagine.">Respond. Recover. Reimagine.</a></li>
+	<li><a href="https://www.glintinc.com/peopledrivenleaders/" data-title="People-Driven Leaders">People-Driven Leaders</a></li>
+	<li><a href="https://www.glintinc.com/people-success-summit/" data-title="People Success Summit">People Success Summit</a></li>
+</ul>
+	<div class="nav-bar__callout">
+		<div class="nav-bar__callout-image">
+			<img src="./What Is People Science_ – Glint_files/State-of-the-Manager-report-265x174.jpg">
+		</div>
+		<div class="nav-bar__callout-info">
+			<span class="nav-bar__callout-heading">Download the State of the Manager report to find out what helps managers succeed in the new world of work</span>
+			
+			<a href="https://www.glintinc.com/resource/state-of-the-manager-2021/" class="nav-bar__callout-link" data-title="Learn more">Learn more</a>
+		</div><!-- end .nav-bar__callout-info -->
+	</div><!-- end .nav-bar__callout -->
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+</li>
+<li class="menu-header panel-id-company nav-bar__item"><a href="https://www.glintinc.com/company/" class="nav-bar__link" data-title="Company">Company</a>
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+	<li><a href="https://www.glintinc.com/company/" data-title="Our Story">Our Story</a></li>
+	<li><a href="https://www.glintinc.com/newsroom/" data-title="Newsroom">Newsroom</a></li>
+	<li><a href="https://www.glintinc.com/careers/" data-title="Careers">Careers</a></li>
+</ul>
+	<div class="nav-bar__callout">
+		<div class="nav-bar__callout-image">
+			<img src="./What Is People Science_ – Glint_files/company-careers-sub-nav-265x174.jpg">
+		</div>
+		<div class="nav-bar__callout-info">
+			<span class="nav-bar__callout-heading">Join the Team!</span>
+			<p>Be part of a team of talented and passionate innovators and changemakers to build a world where people love their jobs</p>
+
+			<a href="https://www.glintinc.com/careers/#available-positions" class="nav-bar__callout-link" data-title="Available Positions">Available Positions</a>
+		</div><!-- end .nav-bar__callout-info -->
+	</div><!-- end .nav-bar__callout -->
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+</li>
+<li class="hide-mobile nav-bar__item"><a href="https://app.glintinc.com/session/any/login" class="nav-bar__link" data-title="Login">Login</a></li>
+<li class="button-style hide-mobile nav-bar__item"><a href="https://www.glintinc.com/contact/" class="nav-bar__link" data-title="Contact Us">Contact Us</a></li>
+
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+</ul>
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+</ul>
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+<li class="menu-header panel-id-language nav-bar__item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="nav-bar__link icon-globe" data-title="English">English</a>
+<div class="nav-bar__panel-outer">
+
+<div class="nav-bar__panel">
+
+<div class="nav-bar__panel-inner">
+
+<ul>
+	<li class="lang-fr switch-lang"><a href="https://www.glintinc.com/fr/blog/what-is-people-science/" data-title="Français">Français</a></li>
+	<li class="lang-ja switch-lang"><a href="https://www.glintinc.com/ja/blog/what-is-people-science/" data-title="日本語">日本語</a></li>
+	<li class="lang-de switch-lang"><a href="https://www.glintinc.com/de/blog/what-is-people-science/" data-title="Deutsch">Deutsch</a></li>
+</ul>
+
+</div><!-- end .nav-bar__panel-inner -->
+
+</div><!-- end .nav-bar__panel -->
+
+</div><!-- end .nav-bar__panel-outer -->
+</li>
+<li class="wpml-ls-slot-27 wpml-ls-current-language nav-bar__item"><a title="English" href="https://www.glintinc.com/blog/what-is-people-science/" class="nav-bar__link" data-title="English (English)"><span class="wpml-ls-native" lang="en">English</span><span class="wpml-ls-display"><span class="wpml-ls-bracket"> (</span>English<span class="wpml-ls-bracket">)</span></span></a></li>
+</ul>            </nav><!-- #site-navigation -->
+
+        </div><!-- .site-header -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="page-content-wrap">
+
+		<div class="standalone">
+			<div class="standalone__inner">
+
+		    <div class="blog-post">
+						<section class="js-reveal-static-on-enter" data-sr-id="5" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s; transition: transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s; ">
+					<div class="post-hero" style="background-image:url(https://www.glintinc.com/wp-content/uploads/2020/04/What-is-People-Science-blog-image-scaled-960x594.jpg)"></div>
+				</section>
+					
+        <section class="post-title js-reveal" data-sr-id="1" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: margin 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s, -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: margin 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s, transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; ">
+            <div class="post-title__meta">
+            	April 9, 2020            </div>
+			
+            <div class="post-title__text">
+                <h1>        
+                	What Is People Science?                </h1>
+            </div>
+			
+								<span class="post-title__author">By <span href=" https://www.glintinc.com/blog/author/jblack/">Justin Black</span>      
+							
+			<div class="social_share_container">
+				<p>Share On</p>
+				
+				<div class="social_share_buttons_container">
+					<ul>
+						<li class="footer-nav__social-item">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.glintinc.com%2Fblog%2Fwhat-is-people-science%2F&amp;title=What+Is+People+Science%3F&amp;summary=I+like+to+think+I%E2%80%99ve+been+interested+in+%E2%80%9Cpeople+science%E2%80%9D+since+I+was+young.+Of+course+that+term+wasn%E2%80%99t+part+of+my+childhood+lexicon%2C+but+I+grew+up+in+a+household+fascinated+by+why+people+do+what+they+do.+Our+parents+valued+empathy%2C+compassion%2C+and+curiosity.+They+were+both+educators-turned-executives%2C+and+our+family+conversations+often+%5B%26hellip%3B%5D&amp;source=Glint" target="_blank" class="footer-nav__social-link icon-social-linkedin"></a>						</li>
+						
+						<li class="footer-nav__social-item">
+							<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.glintinc.com%2Fblog%2Fwhat-is-people-science%2F" target="_blank" class="footer-nav__social-link icon-social-facebook"></a>						</li>
+					
+						<li class="footer-nav__social-item">
+							<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.glintinc.com%2Fblog%2Fwhat-is-people-science%2F&amp;text=What+Is+People+Science%3F" target="_blank" class="footer-nav__social-link icon-social-twitter"></a>						</li>
+					</ul>
+				</div>
+			</div>
+        </span></section>
+
+        <section class="post-content js-reveal-static-on-enter" data-sr-id="6" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: margin 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s, -webkit-transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s; transition: margin 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s, transform 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s, opacity 1.5s cubic-bezier(0.6, 0.2, 0.1, 1) 0.5s; ">
+            <div class="post-content__wysiwyg">
+<p><span style="font-weight: 400;">I like to think I’ve been interested in “people science” since I was young. Of course that term wasn’t part of my childhood lexicon, but I grew up in a household fascinated by why people do what they do. Our parents valued empathy, compassion, and curiosity. They were both educators-turned-executives, and our family conversations often centered on questions about happiness for all, success for all, and the pursuit itself.</span></p>
+<p><span style="font-weight: 400;">And in a nutshell that’s what People Science is: the study of what makes people happy and successful at work, and how to create environments and habits that promote happiness and success.&nbsp;</span></p>
+<p><span style="font-weight: 400;">But what, exactly, does that mean? What is People Science?</span></p>
+<h2><span style="font-weight: 400;">People Science: Glint’s definition</span></h2>
+<p><span style="font-weight: 400;">Let’s start with how we at Glint think about People Science, and what it means for our customers.</span></p>
+<p><span style="font-weight: 400;">People Science is an agile</span> <span style="font-weight: 400;">and</span> <span style="font-weight: 400;">people-centric approach to the study and practice of happiness and success at work. It integrates fields of study like industrial-organizational psychology, organizational development, and occupational psychology with increasingly relevant fields like data science, product management, and design. On the practice side, People Science connects the traditionally siloed programs of <a href="https://www.glintinc.com/blog/what-is-employee-engagement/" target="_blank" rel="noopener noreferrer">employee engagement</a>, performance management, and learning and development into what we like to call a unified <a href="https://www.glintinc.com/blog/introducing-people-success/" target="_blank" rel="noopener noreferrer">People Success</a> program. In our experience, this holistic approach better helps people bring their best selves to work so that they can do their best work.&nbsp;&nbsp;</span></p>
+<h2><span style="font-weight: 400;">How Glint People Science creates value</span></h2>
+<p><span style="font-weight: 400;">Glint People Science transforms how people and organizations succeed by building new habits and mindsets. <span style="text-decoration: underline;"><em>We help people bring their best selves to work so that they can do their best work.</em></span> Like many professional services teams in our industry, we pride ourselves on the insights we deliver and the change we enable. But how exactly do we create value for our customers, and what makes us different?&nbsp;</span></p>
+<p><span style="font-weight: 400;">We designed our strategy and operating model to increase the impact People Science can have on the global workforce. First and foremost, we invest in building a team of intellectually curious consultants who can transform themselves and their customers into People Success pros. As a team, we work to continuously evolve our skills, procedures, services, and toolkits to delight more and more customers. We collaborate brilliantly with our Product and Marketing partners to make People Science accessible to everyone. And to be innovative, we produce industry-leading research that challenges conventional HR practices, leveraging our unique data and expertise.</span></p>
+<p><span style="font-weight: 400;">In terms of customer value, Glint People Science differentiates in three key ways:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We help customers shape and get buy-in on a People Success strategy that connects engagement, performance, and learning.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We help customers become People Success pros, elevating them in their roles and ensuring the partnership’s success.&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">We alleviate customer pain points by infusing our product with deep user empathy and our experience as scientists.</span></li>
+</ol>
+<p><span style="font-weight: 400;">My colleagues and I will continue to explore the foundations of People Science with you over the coming months. But in the meantime, take a minute to watch this video. I think it captures the essence of People Science at Glint.</span></p>
+<p><div class="js-reframe" style="position: relative; width: 100%; padding-top: 56.25%;"><iframe loading="lazy" title="Meet Glint’s People Science Team" width="1200" height="675" src="./What Is People Science_ – Glint_files/FH0DYDYunU8.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px;"></iframe></div></p>
+<p>Interested in how People Science at Glint can support your organization’s success? <a href="https://www.glintinc.com/contact/" target="_blank" rel="noopener noreferrer">Learn more.</a></p>
+            </div>
+        
+            <div class="post-tags">
+                <ul class="post-tags__list">
+                    <li class="post-tags__item"><a href="https://www.glintinc.com/topic/organizational-development" class="post-tags__link" rel="category tag">Organizational Development</a></li>
+                </ul>
+            </div>
+
+        </section>
+
+        <section class="post-related">
+            <div class="section-head section-head--reduced-padding js-reveal" data-sr-id="2" style="; visibility: visible;  -webkit-transform: translateY(100px) scale(1); opacity: 0;transform: translateY(100px) scale(1); opacity: 0;">
+                <h2>Related Posts</h2>
+            </div>
+
+            <ul class="blog-list blog-list--related">
+                <li class="blog-list__item js-reveal" data-sr-id="3" style="; visibility: visible;  -webkit-transform: translateY(100px) scale(1); opacity: 0;transform: translateY(100px) scale(1); opacity: 0;">
+                    <div class="blog-list__photo">
+                        <a href="https://www.glintinc.com/blog/introducing-people-success/" class=""><img src="./What Is People Science_ – Glint_files/L19-Singapore-Global-7-470x320.jpg" alt=""></a>
+                    </div>
+                    <div class="blog-list__info">
+                        <span class="blog-list__date">September 17, 2019</span>
+                        <h2 class="blog-list__title"><a href="https://www.glintinc.com/blog/introducing-people-success/" class="">Introducing People Success: Helping People Be their Best and Do their Best at Work</a></h2>
+                    </div>
+                </li>
+                <li class="blog-list__item js-reveal" data-sr-id="4" style="; visibility: visible;  -webkit-transform: translateY(100px) scale(1); opacity: 0;transform: translateY(100px) scale(1); opacity: 0;">
+                    <div class="blog-list__photo">
+                        <a href="https://www.glintinc.com/blog/how-to-implement-people-success/" class=""><img src="./What Is People Science_ – Glint_files/LI19-Sao-Paulo-Global-6-470x320.jpg" alt=""></a>
+                    </div>
+                    <div class="blog-list__info">
+                        <span class="blog-list__date">September 23, 2019</span>
+                        <h2 class="blog-list__title"><a href="https://www.glintinc.com/blog/how-to-implement-people-success/" class="">How to Implement People Success</a></h2>
+                    </div>
+                </li>
+            </ul>
+
+
+        </section>
+
+    </div>
+
+
+        </div><!-- end .standalone__inner -->
+    </div><!-- end .standalone -->
+
+
+
+
+    </div><!-- #content -->
+
+    <footer class="site-footer">
+        <div class="site-footer__inner-wrap">
+            <nav class="footer-nav">
+                
+<div class="footer-nav__menu">
+
+<ul class="footer-nav__menu-list">
+	<li class="menu-header footer-nav__menu-item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="footer-nav__menu-link">Solutions</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/people-success-platform/" class="footer-nav__menu-link">People Success Platform</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/employee-engagement/" class="footer-nav__menu-link">Employee Engagement</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/employee-development/" class="footer-nav__menu-link">Employee Development</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/people-success/" class="footer-nav__menu-link">People Success</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/glint-demo" class="footer-nav__menu-link">View Demo</a></li>
+</ul>
+
+</div><!-- end .footer-nav__menu -->
+
+
+<div class="footer-nav__menu">
+
+<ul class="footer-nav__menu-list">
+	<li class="menu-header footer-nav__menu-item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="footer-nav__menu-link">Why Glint</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/customer-stories/" class="footer-nav__menu-link">Our Customers</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/the-glint-difference/" class="footer-nav__menu-link">The Glint Difference</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/services-support/" class="footer-nav__menu-link">Services &amp; Support</a></li>
+</ul>
+
+</div><!-- end .footer-nav__menu -->
+
+
+<div class="footer-nav__menu">
+
+<ul class="footer-nav__menu-list">
+	<li class="menu-header footer-nav__menu-item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="footer-nav__menu-link">Resources</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/" class="footer-nav__menu-link">Resource Center</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/#ebooks" class="footer-nav__menu-link">Ebooks</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/#webinars" class="footer-nav__menu-link">Webinars</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/#whitepapers" class="footer-nav__menu-link">Whitepapers</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/#datasheets" class="footer-nav__menu-link">Data Sheets</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/resource-center/#infographics" class="footer-nav__menu-link">Infographics</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/glint-blog/" class="footer-nav__menu-link">Blog</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/build-the-new-world-of-work/" class="footer-nav__menu-link">Respond. Recover. Reimagine.</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/events" class="footer-nav__menu-link">Events</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/peopledrivenleaders/" class="footer-nav__menu-link">People-Driven Leaders</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/people-success-summit/" class="footer-nav__menu-link">People Success Summit</a></li>
+</ul>
+
+</div><!-- end .footer-nav__menu -->
+
+
+<div class="footer-nav__menu">
+
+<ul class="footer-nav__menu-list">
+	<li class="menu-header footer-nav__menu-item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="footer-nav__menu-link">Company</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/company/" class="footer-nav__menu-link">Our Story</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/company/#culture" class="footer-nav__menu-link">Culture</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/newsroom/" class="footer-nav__menu-link">Newsroom</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/newsroom/#articles" class="footer-nav__menu-link">Articles</a></li>
+	<li class="footer-nav__menu-item"><a href="https://www.glintinc.com/newsroom/#press-releases" class="footer-nav__menu-link">Press Releases</a></li>
+	<li class="strong-style top-margin footer-nav__menu-item"><a href="https://www.glintinc.com/careers/" class="footer-nav__menu-link">Careers</a></li>
+</ul>
+
+</div><!-- end .footer-nav__menu -->
+
+
+<div class="footer-nav__menu">
+
+<ul class="footer-nav__menu-list">
+	<li class="menu-header footer-nav__menu-item"><a href="https://www.glintinc.com/blog/what-is-people-science/#" class="footer-nav__menu-link">Contact</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/contact/" class="footer-nav__menu-link">Get in touch</a></li>
+	<li class="strong-style footer-nav__menu-item"><a href="https://www.glintinc.com/contact/#locations" class="footer-nav__menu-link">Locations</a></li>
+</ul>
+	<ul class="footer-nav__social-list">
+	<li class="footer-nav__social-item">
+	<a href="http://www.facebook.com/glintinc" target="_blank" class="footer-nav__social-link icon-social-facebook"></a>
+	</li>
+	<li class="footer-nav__social-item">
+	<a href="https://www.linkedin.com/company/glint-inc-/" target="_blank" class="footer-nav__social-link icon-social-linkedin"></a>
+	</li>
+	<li class="footer-nav__social-item">
+	<a href="http://twitter.com/glintinc" target="_blank" class="footer-nav__social-link icon-social-twitter"></a>
+	</li>
+	</ul>
+
+</div><!-- end .footer-nav__menu -->
+
+            </nav>
+
+            <div class="site-footer__lower">
+                <div class="site-footer__legal">
+                    © Glint Inc., 2023 &nbsp; <a href="https://www.glintinc.com/privacy/">Privacy</a> &nbsp; <a href="https://www.glintinc.com/gdpr/">GDPR</a> &nbsp; <a href="https://www.glintinc.com/glint_cookie_policy/">Cookie Policy</a>
+                </div>
+                <div class="site-footer__certification">
+                    <img srcset="https://www.glintinc.com/wp-content/themes/glint/img/aicpa-seal.png 1x, 
+                        https://www.glintinc.com/wp-content/themes/glint/img/aicpa-seal_2x.png 2x" alt="AICPA">
+                </div>
+            </div>
+
+        </div><!-- .site-footer__inner-wrap -->
+        
+    </footer>
+
+<!-- LinkedIn -->
+<script type="text/javascript">
+_linkedin_data_partner_id = "30478";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=30478&fmt=gif" />
+</noscript>
+
+<script>console.log("COOKIES ACCEPTED (body)");</script><script type="text/javascript" src="./What Is People Science_ – Glint_files/vendor.js.download" id="glint-vendor-scripts-js"></script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/bundle.js.download" id="glint-scripts-js"></script>
+<script type="text/javascript" src="./What Is People Science_ – Glint_files/application.js.download" id="glint-scripts-new-js"></script>
+
+
+
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
